@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kkawayuki
-- 👀 I’m interested in learning code and japanese, improving both computer and world language!
-- 🌱 I’m currently learning python 
-- 📫 How to reach me on discord: kkawa #8191
+- 👀 Interested in front-end development
+- 🌱 I’m currently learning C++ 
+- 📫 How to reach me on discord: yukiokawa
 
 <!---
 kkawayuki/kkawayuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
