@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kkawayuki
-- 👀 Interested in front-end development
-- 🌱 I’m currently learning C++ / HTML
 - 📫 How to reach me on discord: yukiokawa
 
 <!---
