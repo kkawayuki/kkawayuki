@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kkawayuki
-- 📫 How to reach me on discord: yukiokawa
+- 📫 How to reach me on discord: kkyukio
 
 <!---
 kkawayuki/kkawayuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
