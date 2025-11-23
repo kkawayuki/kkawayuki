@@ -1,4 +1,4 @@
-- Hi, I'm kkawayuki. I'm currently interested in all things design and games. Although I also have interest in more general software engineering and application building! I'm currently working on the following:
+- Hi, I'm kkawayuki. I'm currently interested in all things software engineering and application building! I'm currently working on the following:
 - Javascript -> React
 - C# for Unity
 - 📫 How to reach me on discord: kkyukio
