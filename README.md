@@ -1,10 +1,9 @@
 - Hi, I'm kkawayuki. I'm currently interested in all things software engineering and application building! I'm currently working on the following:
-- React
-  - JS
+- Frontend
+  - React
   - Typescript
-  - CSS/HTML
 - Backend
-  - FASTAPI 
+  - Express
 
 <!---
 kkawayuki/kkawayuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
